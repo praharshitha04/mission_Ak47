@@ -1,6 +1,6 @@
 git init
 git status
-git add ./git add filename
+git add ./git add fileName
 git commit -m "message"
 git remote -v
 git checkout -b nameofbranch
