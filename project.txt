@@ -1,0 +1,8 @@
+git init
+git status
+git add ./git add filename
+git commit -m "message"
+git remote -v
+git checkout -b nameofbranch
+git remote add origin "url"
+git push origin brachname
